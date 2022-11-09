@@ -14,7 +14,6 @@ export const Loader = () => {
         glassColor="#c0efff"
         color=" #750646ce"
       />
-      ;
     </WrapSpinner>
   );
 };
